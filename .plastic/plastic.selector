@@ -1,0 +1,4 @@
+repository "Projekt@FlyTez@cloud"
+  path "/"
+    br "/main"
+    co "/main"
